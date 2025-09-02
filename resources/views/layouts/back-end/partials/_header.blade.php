@@ -19,13 +19,13 @@
         </a>
     </div>
 
-{{--    <ul class="navbar-nav align-items-center flex-row flex-grow-1 __navbar-nav">--}}
+   {{-- <ul class="navbar-nav align-items-center flex-row flex-grow-1 __navbar-nav">--}}
 {{--        <li class="nav-item __nav-item">--}}
 {{--            <a href="https://6ammart-admin.6amtech.com/admin/users" id="tourb-6" class="__nav-link ">--}}
 {{--                <span>Users</span>--}}
 {{--            </a>--}}
 {{--        </li>--}}
-{{--    </ul>--}}
+{{--    </ul> --}}
 
     <ul class="nav user-menu ms-5 float-start">
         <li>
@@ -35,14 +35,6 @@
             </a>
         </li>
     </ul>
-    <!-- Search Bar -->
-{{--    <div class="top-nav-search">--}}
-{{--        <form>--}}
-{{--            <input type="text" class="form-control" placeholder="Search here">--}}
-{{--            <button class="btn" type="submit"><i class="fas fa-search"></i></button>--}}
-{{--        </form>--}}
-{{--    </div>--}}
-    <!-- /Search Bar -->
 
     <!-- Mobile Menu Toggle -->
     <a class="mobile_btn" id="mobile_btn">
